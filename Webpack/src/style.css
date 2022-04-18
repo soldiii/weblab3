@@ -1,0 +1,17 @@
+h1 {
+    font-family: Courier;
+    font-size: 20pt;
+    text-align: center;
+    font-style: bolder;
+}
+
+select {
+    font-family: Courier;
+    font-style: italic;
+}
+
+button {
+    font-family: Courier;
+    font-style: italic;
+    
+}
